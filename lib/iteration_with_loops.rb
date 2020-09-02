@@ -16,5 +16,5 @@ while row_index < src.length do
   end
   row_index += 1
 end
-resulting_string.join
+resulting_string.join(" ")
 end
